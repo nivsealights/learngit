@@ -1,1 +1,1 @@
-# learngit
+# learngit is awesome
